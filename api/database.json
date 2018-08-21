@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Ricky0520",
+      "email": "me@me.com",
+      "about": {
+        "birthday": "Add your Birthday to your Profile",
+        "bio": "Tell everyone about yourself",
+        "image": ""
+      }
+    },
+    {
+      "username": "kayla0610",
+      "email": "me@me.com",
+      "about": {
+        "birthday": "Add your Birthday to your Profile",
+        "bio": "Tell everyone about yourself",
+        "image": ""
+      },
+      "id": 2
+    },
+    {
+      "username": "testUser",
+      "email": "me@me.com",
+      "about": {
+        "birthday": "Add your Birthday to your Profile",
+        "bio": "Tell everyone about yourself",
+        "image": ""
+      },
+      "id": 3
+    },
+    {
+      "username": "test02",
+      "email": "me@me.com",
+      "about": {
+        "birthday": "Add your Birthday to your Profile",
+        "bio": "Tell everyone about yourself",
+        "image": ""
+      },
+      "id": 4
+    }
+  ],
+  "travels": [
+    {
+      "userId": 1,
+      "title": "Engagement Amazement",
+      "location": "Universal Studios Florida",
+      "mainImage": "nothing.com",
+      "travelDate": "May, 2017",
+      "description": "A 4 day trip to Universal Studios to propose to the love of my life in front of Hogwarts Castle with a custom made Marauders Map!",
+      "date": "edited on: 08/21/2018 at 1:39:37 PM",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Orlando Informer Trip v2",
+      "location": "Universal Studio Florida/ Universal Islands of Adventure",
+      "mainImage": "nope.com",
+      "travelDate": "September of 2017",
+      "description": "It was a sleep deprived marathon encoure trip to Universal, and would have been amazing if it werent for unforseen illnesses.",
+      "date": "edited on: 08/21/2018 at 2:18:40 PM",
+      "id": 2
+    }
+  ]
+}
